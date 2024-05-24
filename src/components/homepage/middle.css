@@ -1,0 +1,11 @@
+.part1{
+    padding-left: 600px;
+    padding-right: -10px;
+    height: 500px;
+    border: 1px solid black;
+    background: url('./f.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(238, 238, 238);
+    font-size:500%;
+}

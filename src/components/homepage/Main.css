@@ -1,0 +1,10 @@
+.level1{
+    padding-left: 200px;
+    height: 500px;
+    border: 1px solid black;
+    background: url('./e.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: rgb(238, 238, 238);
+    font-size:760%;
+}

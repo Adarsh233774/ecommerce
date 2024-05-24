@@ -1,0 +1,124 @@
+.game1{
+    height: auto;
+    width: 100%;
+    border: 1px black solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background: url('../dishesimg/5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.game2{
+    margin: 50px;
+    height: 350px;
+    width: 250px;
+    border: 2px black solid;
+    border-radius: 10px;
+
+
+}
+
+.game3{
+    height: 300px;
+    width: 250px;
+    border-bottom: 2px black solid;
+    border-radius: 10px;
+    border-bottom:transparent;
+    
+}
+
+.game4{
+    color: white;
+    height:50px ;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.game5{
+    margin-top: 130px;
+    height: 120px;
+    width: 200px;
+    border: 2px rgb(255, 255, 255) solid;
+    border-radius: 10px;
+    color: white;
+    font-size: 250%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.game6:hover{
+    
+    color: antiquewhite;
+    transition-delay: 0.3s;
+    cursor: pointer;
+}
+.game6:active{
+   
+    color: rgb(156, 243, 42);
+    transition-delay: 0.3s;
+    cursor: pointer;
+}
+.game6:visited{
+   
+    color: rgb(156, 243, 42);
+    transition-delay: 0.3s;
+    cursor: pointer;
+}
+
+
+/* images for the card */
+#img1{
+    background: url('../dishesimg/butterchicken.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img2{
+    background: url('../dishesimg/ChickenCurry.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img3{
+    background: url('../dishesimg/CholeBhature.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img4{
+    background: url('../dishesimg/DaliyaKhichadi.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img5{
+    background: url('../dishesimg/deserts.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img6{
+    background: url('../dishesimg/GulabJamun.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img7{
+    background: url('../dishesimg/Idlisambar.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img8{
+    background: url('../dishesimg/masaladosa.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img9{
+    background: url('../dishesimg/palakpaneer.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img10{
+    background: url('../dishesimg/pizza.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
